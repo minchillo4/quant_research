@@ -14,7 +14,7 @@ machine learning to financial time series.It will grow incrementally as new rese
 
 ## Current Content
 
-### 📓 Walk-Forward Modeling (Baseline)
+### 📓 Walk-Forward Modeling
 
 - **Notebook:** `000-walk-forward.ipynb`
 - Demonstrates:
